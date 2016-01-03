@@ -1,0 +1,2 @@
+defmodule RapidaxExample do
+end
